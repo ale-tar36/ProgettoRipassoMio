@@ -113,7 +113,6 @@ class ProgettoRipassoApplicationTests
 	@Test
 	void listeNostre()
 	{
-		Map<String,Integer>
 		ListEntities<Arciere> lista = new ArrayListEntities<>();
 		Arciere a2 = new Arciere();
 		a2.setId(2L);
